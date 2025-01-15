@@ -1,5 +1,7 @@
 # Gilded Rose Refactoring Kata - C# Implementation
 
+## AKINF: Developing Sustainable Software - Group 2
+
 ## Assignment Overview
 
 This project is a refactoring exercise focused on improving the code quality of the Gilded Rose inventory management system. The main objectives were:
@@ -73,14 +75,6 @@ The system follows these core rules:
    - Quality increases by 3 when there are 5 days or less
    - Quality drops to 0 after the concert
 
-## Future Improvements
-
-Potential areas for further enhancement:
-
-1. Implementation of Strategy Pattern for different item types
-2. Addition of new item categories
-3. Enhanced error handling
-4. Performance optimizations for large inventory sets
 
 ## Contributing
 
